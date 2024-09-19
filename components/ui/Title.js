@@ -14,5 +14,6 @@ const styles = StyleSheet.create({
     color: Colors.primaryBlack,
     textAlign: "center",
     padding: 12,
+    maxWidth: "80%",
   },
 });
